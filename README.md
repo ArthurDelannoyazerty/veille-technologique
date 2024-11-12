@@ -3,6 +3,6 @@
 A small repo where I keep the last info about AI mainly.
 
 
-## Useful Websites : 
+## Useful Websites
 - https://www.deeplearningweekly.com/
 - https://huggingface.co/papers
